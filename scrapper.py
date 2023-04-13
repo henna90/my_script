@@ -61,3 +61,6 @@ for listing in listings:
         "bedrooms": bedrooms,
         "bathrooms": bathrooms,
         "sqft":
+
+        
+        # https://chat.openai.com/chat/8ce17672-6960-4c86-b02d-fd7e023a7968
