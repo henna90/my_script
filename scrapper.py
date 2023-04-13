@@ -47,7 +47,7 @@ for listing in listings:
     
     # Get estimated rent
     listing_id = listing.get_attribute("id")
-    rent_url = f"https://www.zillow.com/homedetails/{listing_id}_zpid/"
+    rent_url = f'https://www.zillow.com/homedetails/{listing_id}_zpid/'
     driver.get(rent_url)
     time.sleep(2)
     try:
